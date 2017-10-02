@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Code-Challenges.iml" filepath="$PROJECT_DIR$/.idea/Java-Code-Challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-Code-Challenges_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-Code-Challenges_main.iml" group="Java-Code-Challenges" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-Code-Challenges_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-Code-Challenges_test.iml" group="Java-Code-Challenges" />
+    </modules>
+  </component>
+</project>
